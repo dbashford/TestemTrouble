@@ -1,0 +1,12 @@
+{
+  "test_page": "testem/runner.html",
+  "routes": {
+    "/js": "public/javascripts"
+  },
+  "launch_in_dev": [
+    "Chrome"
+  ],
+  "launch_in_ci": [
+    "PhantomJS"
+  ]
+}
